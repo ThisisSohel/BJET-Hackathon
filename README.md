@@ -1,2 +1,4 @@
 # BJET-Hackathon
-In BJET Hackathon program, we participate around 30 IT engineer from B-JET. I solve 3 problems out of 5 problems. 
+
+B-JET Hackathon Competition was arrangesd by BJIT, Bangladesh. In BJET Hackathon Competition, we participate around 30 IT engineer from B-JET. I solve 3 problems out of 5 problems.
+
